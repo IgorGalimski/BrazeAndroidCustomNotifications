@@ -11,3 +11,5 @@ Integration manual
 
 3. Replace default push backgournd (it's used in case of downloading issues), keep file name
 https://github.com/IgorGalimski/BrazeAndroidCustomNotifications/blob/master/Assets/Plugins/Android/res/drawable/notification_background.jpg
+
+4. Send a push from braze with ab_sbg param and url
